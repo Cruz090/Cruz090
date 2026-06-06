@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently building Nexus — a real-time messenger with Spring Boot, WebSocket, Redis, Docker, Jenkins CI/CD, and Prometheus/Grafana observability.<br><br>
 🌱 Sharpening algorithmic thinking through LeetCode (handle: TiagoC_).<br><br>
-⚡ Platinum trophy in Elden Ring. Yes, all bosses.
+⚡ Platinum trophy in Elden Ring. Yes, all bosses, all endings.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagocruz03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ctiago23@yahoo.com)
